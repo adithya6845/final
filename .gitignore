@@ -1,0 +1,36 @@
+# Node
+node_modules/
+dist/
+.eslintcache
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
